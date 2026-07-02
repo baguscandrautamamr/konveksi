@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Produksi Konveksi",
+  "description": "Sistem informasi manajemen produksi konveksi terintegrasi dengan database Excel, barcode scanning, matrix breakdown, lini pemotongan, lini penjahitan, quality control, packing, dan pelacakan pengiriman.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
